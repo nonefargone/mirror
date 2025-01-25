@@ -1,9 +1,0 @@
-restart conn
-
-conn 
-
-    string 
-
-    no exist 
-
-    no       qwerty
